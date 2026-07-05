@@ -1,0 +1,11 @@
+name: MinimapWorldId
+description: $description
+version: '${version}'
+
+main: net.techcable.minecraft.minimap_world_id.MinimapWorldId
+# should work with nearly any version, but this is what I tested with
+api-version: '26.1.1'
+load: STARTUP
+
+authors: [ Techcable ]
+website: https://github.com/Techcable/MinmapWorldId.mc
